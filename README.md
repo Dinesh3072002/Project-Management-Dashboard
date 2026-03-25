@@ -1,4 +1,4 @@
-# PM.Flow — Project Management Dashboard
+#  Project Management Dashboard
 
 A full-featured Project Management Dashboard built with React, Redux Toolkit, and dnd-kit. Includes CRUD for Employees, Projects, and Tasks, with a drag-and-drop Kanban board.
 
@@ -155,6 +155,6 @@ src/
 
 > Add your deployed URL here (e.g. Vercel / Netlify)
 
----
+https://project-management-dash.netlify.app/
 
 *Built for Powersoft Techno Solutions Technical Assessment*
