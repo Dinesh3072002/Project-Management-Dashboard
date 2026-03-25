@@ -39,7 +39,7 @@ export default function Sidebar() {
 
       <aside className={`sidebar ${open ? 'open' : ''}`}>
         <div className="sidebar-logo">
-          <h1>PM<span>.</span>Flow</h1>
+          <h1>POWERSOFT</h1>
           <p>Project Management Dashboard</p>
         </div>
 
